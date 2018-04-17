@@ -45,3 +45,21 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.settings/org.eclipse.m2e.core.prefs
+*.classpath
+climate-biz/.settings/org.eclipse.wst.validation.prefs
+*/.settings/*
+*/target/*
+*.class
+*.merger-left*
+*merge-right*
+*mine
+*.prej
+*.working
+*/.git/*
+*/target
+.deployables
+.git
+.svn
+_svn
+svn-commit*.tmp
